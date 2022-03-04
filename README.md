@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋</p>
 
 <!--
 **teasleepy/teasleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--[JarofStars_gif](https://user-images.githubusercontent.com/69016460/156708565-71cead65-17db-46e3-bf54-711f97907488.gif)-->
+
+<p align="center">
+  <img width="1500" height="300" src="https://user-images.githubusercontent.com/69016460/156708565-71cead65-17db-46e3-bf54-711f97907488.gif">
+</p>
