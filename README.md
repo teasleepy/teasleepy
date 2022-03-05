@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </pre>
   
 📄Resume . . . \
-[Resume](https://docs.google.com/document/d/1m1_kA9F5fcCei43NEJPVUwno6qmksU1pBSNgjvYctVA/edit?usp=sharing)
+[Resume](https://drive.google.com/file/d/1y6e7w6ye2ZUMttOXyLswkz-Q0j757b25/view?usp=sharing)
   
 📧Email . . . \
 ameena07@gmail.com
