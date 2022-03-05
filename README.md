@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <p align="center"/><a href="https://github.com/teasleepy/TuffyHacks2022" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=teasleepy&repo=TuffyHacks2022&theme=material-palenight" /></a></p>
 </pre>
   
-Resume . . . \
+📄Resume . . . \
 [Resume](https://docs.google.com/document/d/1m1_kA9F5fcCei43NEJPVUwno6qmksU1pBSNgjvYctVA/edit?usp=sharing)
   
 📧Email . . . \
