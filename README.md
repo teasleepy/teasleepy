@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-  <img width="1500" height="300" src="https://user-images.githubusercontent.com/69016460/156708565-71cead65-17db-46e3-bf54-711f97907488.gif">
-</p>
+
 
 <p align="left">
 <h5>📚My skills . . . <h5>
